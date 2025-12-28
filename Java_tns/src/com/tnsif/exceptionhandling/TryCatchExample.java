@@ -12,7 +12,6 @@ public class TryCatchExample {
         return a / b;
     }
 
-    // ✅ ADD THIS PART ONLY
     public static void main(String[] args) {
 
         try {
